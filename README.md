@@ -1,1 +1,3 @@
-# CSC202
+# CSC202 Cal Poly 
+
+Data Structures
